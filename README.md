@@ -4,7 +4,7 @@
 
 ### Kevin Doolaeghe
 
-## Auteur 
+## Auteur du cours
 
 ### Lior Chamla
 
