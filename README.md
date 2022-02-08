@@ -4,8 +4,6 @@
 
 ### Kevin Doolaeghe
 
-## Auteur du cours
+## Sources
 
-### Lior Chamla
-
-https://www.youtube.com/watch?v=no82oluCZag
+* [Cours de Lior Chamla - Vidéo Youtube](https://www.youtube.com/watch?v=no82oluCZag)
